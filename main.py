@@ -44,7 +44,6 @@ def winner(p):
 
 
 show_field()
-
 count = 1
 while True:
     if count == 10:
